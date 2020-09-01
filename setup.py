@@ -10,7 +10,7 @@ with open("README.md","r") as fh:
 
 setuptools.setup(
     name="lambdata-FancyFun",
-    version="0.0.2",
+    version="0.0.3",
     author="FancyFun",
     description="something about makingn code",
     long_description=LONG_DESCRIPTION,
